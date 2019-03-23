@@ -1,2 +1,2 @@
 # snake.bin
-It’s  a simple snake game with html.
+It’s  a simple snake game with python coding.
